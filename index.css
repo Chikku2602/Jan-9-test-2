@@ -1,0 +1,21 @@
+body{
+    background-color:#1c393b ;
+  }
+  p{
+      color: #35ff08;
+      font-style: italic;
+      font-weight:bolder;
+      font-size: larger;
+    
+  }
+  p:hover{
+    color:#03a8ab;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  button{
+    cursor: pointer;
+  }
+  button:hover{
+    color: royalblue;
+  }
